@@ -1,0 +1,10 @@
+{
+    "cleanUrls": true,
+    "rewrites": [{ "source": "/", "destination": "/index.html" }, { "source": "/en", "destination": "/en.html" }, { "source": "/tr", "destination": "/tr.html" }],
+    "redirects": [
+        {
+          "source": "/view-source",
+          "destination": "https://github.com/ichbinheimdall/smmpres-pek-yakinda"
+        }
+      ]
+}
